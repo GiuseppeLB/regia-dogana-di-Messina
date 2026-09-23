@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article>
+<h1>{{ page.title }}</h1>
+<div class="testo">{{ content }}</div>
+{% assign objs = site.oggetti | where: "pagina", page.slug | sort: "ordine" %}
+{% if objs.size > 0 %}
+<section aria-labelledby="ogg">
+<h2 id="ogg">Gli oggetti</h2>
+{% assign gruppi = objs | group_by: "sezione" %}
+{% for g in gruppi %}
+{% if g.name != "" %}<h3>{{ g.name }}</h3>{% endif %}
+<ul class="elenco">
+{% for o in g.items %}<li><a href="{{ o.url | relative_url }}">{{ o.title }}</a>{% if o.didascalia != "" %}<span>{{ o.didascalia }}</span>{% endif %}</li>{% endfor %}
+</ul>
+{% endfor %}
+</section>
+{% endif %}
+</article>

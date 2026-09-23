@@ -1,0 +1,14 @@
+---
+layout: default
+title: Tutti gli oggetti
+permalink: /oggetti/
+---
+<h1>Tutti gli oggetti</h1>
+{% assign tutte = site.pagine | sort: "ordine" %}
+{% for p in tutte %}
+{% assign objs = site.oggetti | where: "pagina", p.slug | sort: "ordine" %}
+{% if objs.size > 0 %}
+<h2>{{ p.title }}</h2>
+<ul class="elenco">{% for o in objs %}<li><a href="{{ o.url | relative_url }}">{{ o.title }}</a></li>{% endfor %}</ul>
+{% endif %}
+{% endfor %}

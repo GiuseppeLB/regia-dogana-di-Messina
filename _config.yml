@@ -1,0 +1,14 @@
+title: "La Regia Dogana di Messina"
+subtitle: "La via dei tesori"
+lang: it
+# Modifica queste due righe quando conosci l'indirizzo definitivo
+url: "https://NOMEUTENTE.github.io"
+baseurl: "/regia-dogana"
+collections:
+  pagine:
+    output: true
+    permalink: /pagine/:name/
+  oggetti:
+    output: true
+    permalink: /oggetti/:name/
+exclude: [README.md, qr]

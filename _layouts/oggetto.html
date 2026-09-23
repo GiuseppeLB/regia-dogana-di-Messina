@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign genitore = site.pagine | where: "slug", page.pagina | first %}
+{% assign fratelli = site.oggetti | where: "pagina", page.pagina | sort: "ordine" %}
+{% for o in fratelli %}{% if o.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
+<article>
+<p class="briciola"><a href="{{ genitore.url | relative_url }}">{{ genitore.title }}</a>{% if page.sezione and page.sezione != "" %} / {{ page.sezione }}{% endif %}</p>
+<h1>{{ page.title }}</h1>
+{% if page.foto and page.foto != "" %}
+<figure>
+<img src="{{ page.foto | relative_url }}" alt="{{ page.alt }}">
+{% if page.didascalia and page.didascalia != "" %}<figcaption>{{ page.didascalia }}</figcaption>{% endif %}
+</figure>
+{% elsif page.didascalia and page.didascalia != "" %}
+<p class="didascalia">{{ page.didascalia }}</p>
+{% endif %}
+<div class="testo">{{ content }}</div>
+<nav class="vicini" aria-label="Altri oggetti di questa pagina">
+{% if i > 0 %}{% assign p = i | minus: 1 %}<a href="{{ fratelli[p].url | relative_url }}">Precedente: {{ fratelli[p].title }}</a>{% endif %}
+{% assign n = i | plus: 1 %}{% if fratelli[n] %}<a href="{{ fratelli[n].url | relative_url }}">Successivo: {{ fratelli[n].title }}</a>{% endif %}
+</nav>
+<p><a href="{{ genitore.url | relative_url }}">Torna a «{{ genitore.title }}»</a></p>
+</article>
