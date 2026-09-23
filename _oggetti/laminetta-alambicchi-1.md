@@ -4,6 +4,7 @@ title: Laminetta per alambicchi
 pagina: sigilli
 sezione: Laminette per alambicchi
 ordine: 7
+foto: /assets/foto/laminetta_alambicchi.jpg
 alt: Laminetta per alambicchi
 didascalia: Tre laminette per alambicchi per la provincia di Messina (Regno d'Italia)
 ---
