@@ -1,44 +1,13 @@
-media: assets/foto
-content:
-  - name: pagine
-    label: Pagine tematiche
-    type: collection
-    path: _pagine
-    fields:
-      - { name: layout, type: string, hidden: true, default: pagina }
-      - { name: title, label: Titolo, type: string }
-      - { name: ordine, label: Posizione nell'indice, type: number }
-      - { name: body, label: Testo, type: rich-text }
-  - name: oggetti
-    label: Oggetti
-    type: collection
-    path: _oggetti
-    fields:
-      - { name: layout, type: string, hidden: true, default: oggetto }
-      - { name: title, label: Nome, type: string }
-      - name: pagina
-        label: Pagina di appartenenza
-        type: select
-        options:
-          values:
-            - { name: palazzo, label: Il palazzo della Regia Dogana }
-            - { name: sigilli, label: Piombi e sigilli doganali }
-            - { name: contrassegni, label: Contrassegni di Stato }
-            - { name: oli-minerali, label: L'accertamento degli oli minerali }
-            - { name: alcolometria, label: L'alcolometria }
-            - { name: registri, label: I registri doganali }
-            - { name: campionamento, label: Il campionamento }
-            - { name: oggetti-vari, label: Oggetti vari }
-      - { name: sezione, label: Sottosezione (facoltativa), type: string }
-      - { name: ordine, label: Posizione nella pagina, type: number }
-      - { name: foto, label: Foto (facoltativa), type: image }
-      - { name: alt, label: Testo alternativo della foto, type: string }
-      - { name: didascalia, label: Didascalia, type: string }
-      - { name: body, label: Descrizione, type: rich-text }
-  - name: home
-    label: Pagina iniziale
-    type: file
-    path: index.md
-    fields:
-      - { name: layout, type: string, hidden: true, default: home }
-      - { name: body, label: Testo di benvenuto, type: rich-text }
+title: "La Regia Dogana di Messina"
+subtitle: "La via dei tesori"
+lang: it
+url: "https://giuseppelb.github.io"
+baseurl: "/regia-dogana-di-Messina"
+collections:
+  pagine:
+    output: true
+    permalink: /pagine/:name/
+  oggetti:
+    output: true
+    permalink: /oggetti/:name/
+exclude: [README.md, qr]
