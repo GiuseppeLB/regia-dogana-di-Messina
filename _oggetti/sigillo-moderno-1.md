@@ -1,12 +1,16 @@
 ---
 layout: oggetto
-title: Sigillo plomb b
+title: Sigillo Plomb-D
 pagina: sigilli
 sezione: Sigilli moderni
 ordine: 5
-didascalia: Sigillo in plastica plomb-b per uso nel settore delle accise.
+foto: /assets/foto/plomb doganale.jpg
+alt: Plomb-D
+didascalia: Sigillo in plastica modello "Plomb-D", per uso nel settore delle accise.
 ---
-Questo moderno sigillo in plastica colorata, ha sostituito quelli che richiedevano l'uso di pinze.  Il colore blu identifica visivamente l'uso specifico per le *accise*, mentre quelli rossi e verdi sono usati in ambito doganale. 
+Questo moderno sigillo in plastica colorata, ha sostituito quelli che richiedevano l'uso di pinze.  Il colore blu identifica visivamente l'uso specifico per le *accise*, mentre quelli rossi e verdi sono usati in ambito doganale, per merci nazionali o estere.
+
+Da un lato riporta la scritta "DOGANE ITALIANE", mentre dall'altro un numero identificativo e l'emblema della Repubblica italina. Questo genere di sigilli deve quindi essere prodotto dalll’Istituto Poligrafico e Zecca dello Stato che, per legge, è l’unico soggetto autorizzato alla produzione “di sigilli ufficiali e marchi metallici recanti l’emblema dello Stato”.
 
 Il sistema di chiusura è progettato per essere rapido ma definitivo. L'operatore fa scorrere un cavetto metallico attraverso i raccordi del macchinario da bloccare o attraverso il tappo di un contenitore da chiudere e infila le due estremità nel corpo plastico del sigillo. A questo punto spinge all'interno un inserto a scatto che intrappola il filo in modo irreversibile. Una volta chiuso, l'unico modo per manomettere l'impianto è tranciare il filo o spezzare la plastica, lasciando un segno di effrazione impossibile da nascondere.
 
