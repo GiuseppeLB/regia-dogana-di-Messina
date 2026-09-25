@@ -1,6 +1,6 @@
 ---
 layout: oggetto
-title: Pasta rossa e Pasta livello
+title: oggetto 3
 pagina: oggetti-vari
 ordine: 2
 foto: /assets/foto/pasta rossa e livello.jpg
