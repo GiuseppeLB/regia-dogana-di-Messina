@@ -1,16 +1,14 @@
 ---
 layout: oggetto
-title: oggetto 3
+title: Timbri per regimi doganali temporanei
 pagina: oggetti-vari
 ordine: 2
-foto: /assets/foto/pasta rossa e livello.jpg
-alt: Pasta rossa e pasta livello
-didascalia: Paste rilevatrici per idrocarburi e acqua, prodotte dalla ditta "Carma"
+foto: /assets/foto/marchiotemporaneo.jpg
+alt: Timbri a caldo per "temporanea esportazione" e "temporanea importazione"
+didascalia: Timbri a caldo per "temporanea esportazione" e "temporanea importazione"
 ---
-Nel controllo fiscale dei carburanti, calcolare i volumi esatti stoccati nelle grandi cisterne è un'operazione  cruciale. Per effettuare gli inventari e le verifiche nei depositi, i funzionari doganali calano nel serbatoio asta o nastri metalici per misurare il livello del liquido nei serbatoi. Tuttavia, liquidi come la benzina sono semi-trasparenti e altamente volatili, rendendo difficile leggere con precisione il livello del liquido sul metallo. Inoltre, sul fondo delle cisterne si può accumulare acqua. Per ovviare a queste criticità si utilizzano due speciali preparati chimici.
+Nel commercio internazionale accade spesso che alcune merci attraversino il confine solo per un periodo limitato - ad esempio per essere riparate, esposte in una fiera o sottoposte a particolari lavorazioni - per poi fare ritorno nel Paese d'origine. In questi regimi doganali (noti come "temporanea importazione" o "temporanea esportazione"), la legge consente di non pagare i dazi e i diritti di confine. Tuttavia, per evitare contrabbandi ed evasioni fiscali, la Dogana deve avere l'assoluta certezza che la merce che si ripresenta al valico sia esattamente la stessa che era transitata in precedenza.
 
-L'accertamento prevede l'applicazione combinata dei due prodotti sull'asta metrica prima della sua immersione nel serbatoio:
+Per garantire l'identificazione inequivocabile dei beni (come casse di legno, pellami, bestiame o particolari manufatti), i funzionari doganali utilizzavano massicci timbri a caldo per creare un marchio difficile  da rimuovere, cancellare o contraffare senza distruggere il supporto, garantendo così il riconoscimento immediato del bene al momento del suo rientro (o della sua uscita) dal territorio nazionale.
 
-- La "pasta di livello" viene spalmata sulla porzione dell'asta in cui si presume arriverà la superficie del carburante. A contatto con gli idrocarburi, la sostanza reagisce chimicamente e cambia istantaneamente colore. Questo crea uno stacco cromatico netto sul metallo, permettendo al funzionario di leggere al millimetro l'altezza del prodotto senza margini di errore dovuti all'evaporazione.
-- La "pasta rossa" (o pasta rilevatrice di acqua) viene spalmata esclusivamente sull'estremità inferiore dell'asta, quella destinata a toccare il fondo della cisterna. Poiché i carburanti sono più leggeri e galleggiano, l'eventuale acqua si deposita sempre in basso. A contatto con l'acqua, la pasta vira immediatamente verso un rosso acceso, rimanendo invece inalterata a contatto con il carburante. I centimetri di acqua rilevati sul fondo, evidenziati dal colore rosso, corrispondono a un volume "morto" all'interno della cisterna. Il funzionario doganale utilizza questo dato per sottrarre matematicamente il volume dell'acqua dal volume totale del serbatoio, assicurando che le imposte vengano calcolate e pagate esclusivamente sui litri di prodotto energetico reale.
-
+Il punzone in esposizione è un classico esempio di questa strumentazione di controllo antifrode. La pesante testa in metallo è incisa in negativo per imprimere due elementi fondamentali e inequivocabili: l'inconfondibile stemma stellato della Repubblica Italiana e l'indicazione dell'ufficio doganale che ha eseguito l'operazione di controllo, in questo caso la Dogana di Messina. L'impronta a caldo lasciata da questo timbro rappresentava quasi un sigillo di Stato che garantiva il libero transito della merce.
