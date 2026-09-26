@@ -1,6 +1,6 @@
 ---
 layout: pagina
-title: I registri doganali e fiscali
+title: I registri e stampati doganali
 ordine: 6
 ---
 Prima della digitalizzazione, l'operatività degli uffici si fondava su una complessa e monumentale architettura cartacea. Che si trattasse di tecnica doganale (per il controllo delle merci in import/export) o di procedure per le imposte di fabbricazione e di consumo (le attuali accise), la normativa imponeva l'utilizzo di decine di registri differenti. Questi documenti, rigorosamente standardizzati in specifici "modelli" ministeriali, servivano a tracciare in modo capillare flussi di merci, beni soggetti a tassazione e movimenti puramente contabili o finanziari.
