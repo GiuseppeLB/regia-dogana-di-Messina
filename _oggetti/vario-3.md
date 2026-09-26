@@ -1,11 +1,10 @@
 ---
 layout: oggetto
-title: "Oggetto vario 3"
+title: Cilindro per GPL
 pagina: oggetti-vari
-sezione: ""
 ordine: 3
-foto: ""
-alt: ""
-didascalia: ""
+foto: /assets/foto/cilindro GPL.jpg
+alt: Cilindro di verifica per GPL
+didascalia: Cilindro di verifica per GPL
 ---
-[Descrizione da inserire.]
+Utilizzato, ad esempio, per il posizionamento di un termodensimetro per la misurazione del GPL
