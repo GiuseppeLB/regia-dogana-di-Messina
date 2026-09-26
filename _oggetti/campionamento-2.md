@@ -1,11 +1,8 @@
 ---
 layout: oggetto
-title: "Strumento 2 – campionamento"
+title: Campione di gasolio
 pagina: campionamento
-sezione: ""
 ordine: 2
-foto: ""
-alt: ""
-didascalia: ""
+didascalia: Lattina da un litro contenente un campione di gasolio
 ---
-[Descrizione da inserire.]
+La lattina, in metallo e con un tappo particolare, è adatta per il trasporto di combustibili
